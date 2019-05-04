@@ -1,0 +1,25 @@
+{
+
+"name": "Fahrul Anwar",
+"address": "Hasta Graha Blok 3 No 1, Kec: Cibitung Kel: Wanasari",
+"hobbies": [
+			"coding", 
+			"Badminton", 
+			"Futsal "
+],
+
+"is_married" : false, 
+	
+
+"school" : {
+		"highschool" : "SMK Almuslim",
+		"universitas" : "STMIK Bina Insani"
+	},
+
+"skills" : {  
+			"Photoshop":"****",
+			"Internet ":"*****"
+}
+
+
+		}
