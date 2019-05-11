@@ -1,10 +1,13 @@
-<?php
-	$nilai = [35, 20, 31, 15, 13];
-	sort($nilai); // Hasil: (13, 15, 20, 31, 35 )
 
-	for($i = 0;  $i < count($nilai); $i++ ){
- 
-		echo $nilai[$i];
-		echo '<br>';
+<?php  
+$ukuran=10;
+for($a=1; $a<=$ukuran; $a++){
+	for($b=1; $b<=$ukuran; $b++){
+		if(($a==1) || ($a==$ukuran)){
+			echo "* ";
+		} else{
+			echo "* ";
+		}
 	}
-?>
+	echo "<br/>";
+}
